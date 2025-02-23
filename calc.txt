@@ -1,0 +1,6 @@
++ : Add
+- : Subtract
+= : Equals
+* : Multiply
+/ : Divide
+% : Modulus
